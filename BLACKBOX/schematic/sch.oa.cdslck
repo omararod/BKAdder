@@ -4,13 +4,13 @@
 # Information about current Edit Lock Owner.
 #
 LockStakeVersion               1.1
-LoginName                      ees011
+LoginName                      ees010
 HostName                       es-eda.ele.tue.nl
-ProcessIdentifier              25484
-ProcessCreationTime_UTC        1451385552
-ProcessCreationTime_Readable   Tue Dec 29 11:39:12 2015 CET
+ProcessIdentifier              18009
+ProcessCreationTime_UTC        1452000646
+ProcessCreationTime_Readable   Tue Jan  5 14:30:46 2016 CET
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/ees/ees011/5HH00/BKAdder/BLACKBOX/schematic/sch.oa.cdslck
-TimeEditLocked                 Tue Dec 29 11:49:04 2015 CET
+FilePathUsedToEditLock         /home/ees/ees010/5HH00/BKAdder/BLACKBOX/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue Jan  5 14:37:49 2016 CET
